@@ -30,7 +30,7 @@ they receive an **instant email notification**.
 Aero-Scout/
 │── README.md
 │── requirements.txt
-│── Flight-Search-Project
+│── Flight-Search-Project/
     │── main.py # orchestrates the program
     │── flight_search.py # handles flight API calls
     |── flight_data.py # stores all the flights data
