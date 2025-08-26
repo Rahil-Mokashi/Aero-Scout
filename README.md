@@ -1,9 +1,6 @@
 # ✈️ AeroScout – Flight Deal Tracker
 
-AeroScout is a Python project that helps users **find cheap flight deals**.  
-Users sign up through a Google Form, get added automatically to a mailing list,  
-and whenever flights to their chosen destinations drop below a threshold price,  
-they receive an **instant email notification**.  
+AeroScout is a Python project that helps users **find cheap flight deals**. Users sign up through a Google Form, get added automatically to a mailing list,and whenever flights to their chosen destinations drop below a threshold price, they receive an **instant email notification**.  
 
 ---
 
