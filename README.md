@@ -37,6 +37,10 @@ Aero-Scout/
 
 ---
 
+## 📸 Screenshots & Demo  
+⚠️ Currently unavailable due to API quota limit.  
+🔄 Will be updated next month once Sheety API requests reset!  
+
 ## ⚙️ Setup & Usage
 
 1. **Clone the repo**
